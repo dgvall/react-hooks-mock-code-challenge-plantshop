@@ -41,6 +41,36 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Random Plant",
+      "image": "https://www.ikea.com/us/en/images/products/fejka-artificial-potted-plant-indoor-outdoor-monstera__0614197_pe686822_s5.jpg",
+      "price": "5.33",
+      "id": 8
+    },
+    {
+      "name": "Random Plant 2",
+      "image": "https://www.ikea.com/us/en/images/products/fejka-artificial-potted-plant-indoor-outdoor-monstera__0614197_pe686822_s5.jpg",
+      "price": "100.22",
+      "id": 9
+    },
+    {
+      "name": "Random Plant 3",
+      "image": "https://www.ikea.com/us/en/images/products/fejka-artificial-potted-plant-indoor-outdoor-monstera__0614197_pe686822_s5.jpg",
+      "price": "1.22",
+      "id": 10
+    },
+    {
+      "name": "Random Plant 4",
+      "image": "https://www.ikea.com/us/en/images/products/fejka-artificial-potted-plant-indoor-outdoor-monstera__0614197_pe686822_s5.jpg",
+      "price": "4.44",
+      "id": 11
+    },
+    {
+      "name": "Random Plant 5",
+      "image": "https://www.ikea.com/us/en/images/products/fejka-artificial-potted-plant-indoor-outdoor-monstera__0614197_pe686822_s5.jpg",
+      "price": "5.55",
+      "id": 12
     }
   ]
 }
